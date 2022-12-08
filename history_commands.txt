@@ -1,0 +1,16 @@
+ 1117  git status
+ 1118  git add .
+ 1119  git status
+ 1120  git commit -m"2 new files feature1.txt,feature2.txt added"
+ 1121  git log
+ 1122  git checkout master
+ 1123  git merge feature
+ 1124  git merge feature -m"adding the 2 files of feature branch to master branch"
+ 1125  git log
+ 1126  git checkout feature
+ 1127  git log
+ 1128  git remote -v
+ 1129  git branch
+ 1130  git checkout master
+ 1131  git push origin sanket_practice
+ 1132  history
